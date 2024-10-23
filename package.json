@@ -1,0 +1,16 @@
+{
+  "name": "log-active-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@paymoapp/active-window": "^2.1.1",
+    "active-window-listener": "^1.1.3"
+  },
+  "type": "module"
+}
