@@ -25,3 +25,18 @@ Before running the script, ensure you have Node.js installed. You will also need
     ```bash
     node ./index.js
     ```
+## Example
+
+```bash
+Active:  Window {
+  id: 84417,
+  processId: 15419,
+  path: '/Applications/Cursor.app'
+}
+Active:  Window { id: 49908, processId: 58090, path: '/Applications/Slack.app' }
+Active:  Window {
+  id: 49921,
+  processId: 658,
+  path: '/Applications/Google Chrome.app'
+}
+```
